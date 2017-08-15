@@ -13,3 +13,16 @@
 ### To Rollback to the previous migration use :
 
 `knex migrate:rollback`
+
+
+---
+
+# seeds
+
+---
+
+## seed files
+
+### To run a seed files use :
+
+`knex seed:run`
