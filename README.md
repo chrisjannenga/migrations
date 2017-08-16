@@ -2,6 +2,15 @@
 ---
 ## Migrate
 
+1) `knex init`
+2) `mkdir db`
+3) `touch db/knex.js`
+4)
+
+
+
+
+
 ### To create a migration file use :
 
 `knex migrate:make users`
